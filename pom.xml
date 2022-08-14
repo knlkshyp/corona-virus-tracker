@@ -12,7 +12,7 @@
 	<artifactId>corona-virus-tracker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>corona-virus-tracker</name>
-	<description>A corona virus tracker REST API developed using spring boot, spring mvc</description>
+	<description>A corona virus tracker REST API developed using spring boot</description>
 	<properties>
 		<java.version>15</java.version>
 	</properties>
